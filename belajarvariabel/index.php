@@ -11,7 +11,7 @@
     //echo " Panjangnnya :".$Panjang;
      // echo "<br>";
       //echo " Lebar Nya   :". $Lebar;
-    echo " sisi dari sebuah persegi adalah :  ".$sisi;
+    echo " sisi dari   sebuah persegi adalah :  ".$sisi;
   } 
 
   myFunction();  
